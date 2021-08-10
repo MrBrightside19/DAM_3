@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785831813581",
+    "project_id": "dam-03",
+    "storage_bucket": "dam-03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785831813581:android:1a37f9e9ab597b6cb6e484",
+        "android_client_info": {
+          "package_name": "cl.project.tarea_3_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785831813581-id8lvbsdb1fe58gevlvb937nsk2gv4mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZjvizHyhAA4SpRQoKDmhU2kC9vN-Hjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785831813581-id8lvbsdb1fe58gevlvb937nsk2gv4mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
